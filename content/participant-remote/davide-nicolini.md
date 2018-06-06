@@ -10,11 +10,11 @@ twitter         : NicoliniDavide
 facebook        :
 website         : davide.nicolini@wbs.ac.uk
 email           :
-project_leader  :
+project_leader  : 
 chapter_leader  :
 eventbrite_id   :
-status          :
-sessions        :
+status          :organizer
+sessions        : -GROUP DISCUSSION ON LEARNING FROM DIGITAL INCIDENTS
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
